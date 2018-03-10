@@ -1,4 +1,9 @@
-
+img{
+  min-height:200px;
+}
+.carousel-caption blockquote{
+  font-size:0.8rem;
+}
 .container{
   font-family: 'Montserrat', sans-serif;
 }
