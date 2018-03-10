@@ -1,9 +1,11 @@
 img{
-  min-height:200px;
+  min-height:250px;
 }
-.carousel-caption blockquote{
-  font-size:0.8rem;
+.carousel-item blockquote {
+  font-size: 1rem;
 }
+
+
 .container{
   font-family: 'Montserrat', sans-serif;
 }
